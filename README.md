@@ -1,6 +1,16 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/14/6f/37/146f37b95d4f6e3c4f5b0c4b1d9b8d53.gif" width="850"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+%26+Backend+Developer;Database+Enthusiast;Authentication+Systems+Builder;Open+Source+Learner;Building+Secure+and+Intelligent+Systems" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshitera1&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://i.gifer.com/7efs.gif" width="850"/>
+</p>
+
+
 
 <h1 align="center">Hi 👋, I'm Harshit Kumar</h1>
 
