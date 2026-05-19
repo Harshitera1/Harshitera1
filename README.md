@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="850"/>
+  <img src="https://i.pinimg.com/originals/14/6f/37/146f37b95d4f6e3c4f5b0c4b1d9b8d53.gif" width="850"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm Harshit Kumar</h1>
 
 <h3 align="center">
