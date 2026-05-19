@@ -1,13 +1,15 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Harshit%20Kumar&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Backend%20%7C%20Databases%20%7C%20Authentication&descAlignY=55&descAlign=50"/>
+
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+%26+Backend+Developer;Database+Enthusiast;Authentication+Systems+Builder;Open+Source+Learner;Building+Secure+and+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+%26+Backend+Developer;Database+Enthusiast;Authentication+Systems+Builder;Open+Source+Learner;Building+Secure+and+Intelligent+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshitera1&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://i.gifer.com/7efs.gif" width="850"/>
+  <img src="https://komarev.com/ghpvc/?username=Harshitera1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 
