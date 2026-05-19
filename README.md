@@ -1,13 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Backend+Developer;Database+Enthusiast;Authentication+Systems+Builder;Open+Source+Learner;Building+Secure+and+Intelligent+Systems" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshitera1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQ7J5z3w8M/giphy.gif" width="850"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Harshit Kumar</h1>
