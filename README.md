@@ -46,6 +46,13 @@ AI & Backend Developer • Database Enthusiast • Authentication Systems • Op
 
 ---
 
+## Badges & Certifications
+
+[![Meshery Badge](https://www.credly.com/badges/c8d78778-7760-43d3-83d2-240560d86654/public_url)](https://www.credly.com/badges/c8d78778-7760-43d3-83d2-240560d86654/public_url)
+
+- Meshery Community Badge
+- Completed LFC102 – Inclusive Open Source Community Orientation (Linux Foundation)
+
 # 🛠️ Tech Stack
 
 ## 👨‍💻 Languages
@@ -63,6 +70,7 @@ AI & Backend Developer • Database Enthusiast • Authentication Systems • Op
 </p>
 
 ---
+
 
 ## 🤖 AI & Data Analytics
 
