@@ -53,27 +53,37 @@ AI & Backend Developer • Database Enthusiast • Authentication Systems • Op
 
 ## 🏅 Badges & Certifications
 
-<p align="center">
+<table align="center">
+<tr>
 
+<td align="center">
 <a href="https://cloud.layer5.io/user/e39a49b8-b609-4985-bb60-969902de2a18?tab=badges&badge=first-design">
-<img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="140" alt="Design Pioneer Badge"/>
+<img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="120" alt="Design Pioneer Badge"/>
 </a>
+<br>
+<b>Design Pioneer</b>
+<br>
+<sub>Layer5</sub>
+</td>
 
-    
+<td width="60"></td>
 
+<td align="center">
 <a href="https://cloud.layer5.io/user/e39a49b8-b609-4985-bb60-969902de2a18?tab=badges&badge=certified-meshery-contributor">
-<img src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" width="140" alt="Certified Meshery Contributor Badge"/>
+<img src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" width="120" alt="Certified Meshery Contributor Badge"/>
 </a>
+<br>
+<b>Certified Meshery Contributor</b>
+<br>
+<sub>Meshery · CMC</sub>
+</td>
 
-</p>
+</tr>
+</table>
 
 <p align="center">
-<b>Design Pioneer</b> · Layer5
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<b>Certified Meshery Contributor (CMC)</b> · Meshery
+🏅 <b>LFC102</b> · Inclusive Open Source Community Orientation · Linux Foundation
 </p>
-
-* Completed **LFC102 – Inclusive Open Source Community Orientation** · Linux Foundation
 
 ---
 
@@ -171,9 +181,13 @@ Full-stack banking architecture with authentication, APIs & database integration
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshitera1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+<a href="https://github.com/Harshitera1">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Harshitera1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Harshit's GitHub Stats"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitera1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
+<a href="https://github.com/Harshitera1">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitera1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" alt="Harshit's Top Languages"/>
+</a>
 
 </p>
 
@@ -183,7 +197,7 @@ Full-stack banking architecture with authentication, APIs & database integration
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Harshitera1&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=Harshitera1&theme=tokyonight&hide_border=true&border_radius=10" alt="Harshit's GitHub Streak"/>
 
 </p>
 
@@ -193,7 +207,7 @@ Full-stack banking architecture with authentication, APIs & database integration
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Harshitera1&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Harshitera1&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1" alt="Harshit's GitHub Trophies"/>
 
 </p>
 
@@ -203,7 +217,11 @@ Full-stack banking architecture with authentication, APIs & database integration
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshitera1/Harshitera1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshitera1/Harshitera1/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Harshitera1/Harshitera1/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </p>
 
@@ -211,7 +229,11 @@ Full-stack banking architecture with authentication, APIs & database integration
 
 # 📈 Contribution Graph
 
-[![Harshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshitera1\&theme=tokyo-night)](https://github.com/Harshitera1)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshitera1&theme=tokyo-night" alt="Harshit's GitHub Activity Graph"/>
+
+</p>
 
 ---
 
@@ -220,27 +242,19 @@ Full-stack banking architecture with authentication, APIs & database integration
 <p align="center">
 
 <a href="https://github.com/Harshitera1">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 <a href="https://www.linkedin.com/in/harshit-kumar-a377262a1/">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 <a href="#">
-
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-
 </a>
 
 <a href="mailto:harshitkumar7005@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 </p>
