@@ -162,6 +162,7 @@ Full backend architecture with authentication, APIs & database integration.
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshitera1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitera1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
 </p>
 
@@ -186,10 +187,8 @@ Full backend architecture with authentication, APIs & database integration.
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harshitera1/Harshitera1/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-> ⚠️ Snake source points to your `output` branch — this only renders once the `snake.yml` Action has run successfully at least once (see setup steps above).
 
 ---
 
