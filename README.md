@@ -161,9 +161,11 @@ Full backend architecture with authentication, APIs & database integration.
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshitera1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitera1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
+
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Harshitera1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Harshitera1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+
 </p>
 
 ---
@@ -171,7 +173,9 @@ Full backend architecture with authentication, APIs & database integration.
 # 🔥 GitHub Streak
 
 <p align="center">
+
   <img src="https://streak-stats.demolab.com?user=Harshitera1&theme=tokyonight&hide_border=true&border_radius=10"/>
+
 </p>
 
 ---
@@ -179,8 +183,12 @@ Full backend architecture with authentication, APIs & database integration.
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshitera1&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+  <img src="https://github-profile-trophy.soulteary.com/?username=Harshitera1&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
 </p>
+
+
 
 ---
 
