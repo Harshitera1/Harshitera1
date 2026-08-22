@@ -170,24 +170,6 @@ Full backend architecture with authentication, APIs & database integration.
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-  <img src="https://streak-stats.demolab.com?user=Harshitera1&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-  <img src="https://github-profile-trophy.soulteary.com/?username=Harshitera1&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
 
 
 ---
