@@ -5,32 +5,35 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+%26+Backend+Developer;Database+Enthusiast;Authentication+Systems+Builder;Open+Source+Learner;Building+Secure+and+Intelligent+Systems" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+%26+Backend+Developer;Database+Enthusiast;Authentication+Systems+Builder;Open+Source+Contributor;Building+Secure+and+Intelligent+Systems" />
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshitera1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://komarev.com/ghpvc/?username=Harshitera1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
 </p>
-
-
 
 <h1 align="center">Hi 👋, I'm Harshit Kumar</h1>
 
 <h3 align="center">
-AI & Backend Developer • Database Enthusiast • Authentication Systems • Open Source Learner
+AI & Backend Developer • Database Enthusiast • Authentication Systems • Open Source Contributor
 </h3>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 Computer Science Student
-- 🤖 Interested in AI, Machine Learning & Data Analytics
-- 🛢️ Love working with Databases & Backend Architectures
-- 🔐 Passionate about Authentication & Secure Systems
-- 💻 Building real-world applications using Python, MongoDB & React
-- 🌱 Currently learning Open Source, System Design & AI Workflows
-- ⚡ Strong interest in Backend Systems, APIs & Secure Infrastructure
+* 🎓 Computer Science Student
+* 🤖 Interested in AI, Machine Learning & Data Analytics
+* 🛢️ Love working with Databases & Backend Architectures
+* 🔐 Passionate about Authentication & Secure Systems
+* 💻 Building real-world applications using Python, MongoDB & React
+* 🌱 Currently exploring Open Source, Cloud-Native Technologies & System Design
+* 🤝 Contributing to and learning from the open-source ecosystem
+* ⚡ Strong interest in Backend Systems, APIs & Secure Infrastructure
 
 ---
 
@@ -38,20 +41,41 @@ AI & Backend Developer • Database Enthusiast • Authentication Systems • Op
 
 <p align="center">
 
-🚀 Artificial Intelligence • 📊 Data Analytics • 🔐 Authentication Systems  
-🛢️ Database Engineering • ⚙️ Backend Development • 🌐 API Design  
-🧩 System Design • ☁️ Scalable Architectures • 🤝 Open Source
+🚀 Artificial Intelligence • 📊 Data Analytics • 🔐 Authentication Systems
+
+🛢️ Database Engineering • ⚙️ Backend Development • 🌐 API Design
+
+🧩 System Design • ☁️ Cloud & Scalable Architectures • 🤝 Open Source
 
 </p>
 
 ---
 
-## Badges & Certifications
+## 🏅 Badges & Certifications
 
-[![Meshery Badge](https://www.credly.com/badges/c8d78778-7760-43d3-83d2-240560d86654/public_url)](https://www.credly.com/badges/c8d78778-7760-43d3-83d2-240560d86654/public_url)
+<p align="center">
 
-- Meshery Community Badge
-- Completed LFC102 – Inclusive Open Source Community Orientation (Linux Foundation)
+<a href="https://cloud.layer5.io/user/e39a49b8-b609-4985-bb60-969902de2a18?tab=badges&badge=first-design">
+<img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="140" alt="Design Pioneer Badge"/>
+</a>
+
+    
+
+<a href="https://cloud.layer5.io/user/e39a49b8-b609-4985-bb60-969902de2a18?tab=badges&badge=certified-meshery-contributor">
+<img src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" width="140" alt="Certified Meshery Contributor Badge"/>
+</a>
+
+</p>
+
+<p align="center">
+<b>Design Pioneer</b> · Layer5
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<b>Certified Meshery Contributor (CMC)</b> · Meshery
+</p>
+
+* Completed **LFC102 – Inclusive Open Source Community Orientation** · Linux Foundation
+
+---
 
 # 🛠️ Tech Stack
 
@@ -70,7 +94,6 @@ AI & Backend Developer • Database Enthusiast • Authentication Systems • Op
 </p>
 
 ---
-
 
 ## 🤖 AI & Data Analytics
 
@@ -121,31 +144,37 @@ AI & Backend Developer • Database Enthusiast • Authentication Systems • Op
 # 📌 Featured Projects
 
 ## 🏦 POT BANK Management System
+
 Role-based banking system with JWT authentication, MongoDB integration & secure transaction handling.
 
 ---
 
 ## 🚗 RoadGuardian
-Real-time roadside assistance platform with intelligent backend workflows & mechanic tracking.
+
+Real-time roadside assistance platform with intelligent backend workflows, mechanic tracking & location-based assistance.
 
 ---
 
 ## 📊 AI & Data Analytics Projects
-Machine learning, prediction systems, Tableau dashboards & analytics workflows.
+
+Machine learning models, prediction systems, Tableau dashboards & analytics workflows.
 
 ---
 
 ## 🌐 Banking System (MERN)
-Full backend architecture with authentication, APIs & database integration.
+
+Full-stack banking architecture with authentication, APIs & database integration.
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshitera1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitera1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshitera1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitera1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
+
 </p>
 
 ---
@@ -153,7 +182,9 @@ Full backend architecture with authentication, APIs & database integration.
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harshitera1&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<img src="https://streak-stats.demolab.com?user=Harshitera1&theme=tokyonight&hide_border=true&border_radius=10"/>
+
 </p>
 
 ---
@@ -161,7 +192,9 @@ Full backend architecture with authentication, APIs & database integration.
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshitera1&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Harshitera1&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
 </p>
 
 ---
@@ -169,14 +202,16 @@ Full backend architecture with authentication, APIs & database integration.
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
 </p>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Harshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshitera1&theme=tokyo-night)](https://github.com/Harshitera1)
+[![Harshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshitera1\&theme=tokyo-night)](https://github.com/Harshitera1)
 
 ---
 
@@ -185,19 +220,27 @@ Full backend architecture with authentication, APIs & database integration.
 <p align="center">
 
 <a href="https://github.com/Harshitera1">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/harshit-kumar-a377262a1/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+
 </a>
 
 <a href="mailto:harshitkumar7005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 </p>
@@ -207,11 +250,13 @@ Full backend architecture with authentication, APIs & database integration.
 # ⚡ Developer Philosophy
 
 ```txt
-Building secure and intelligent systems with code.
+Building secure, intelligent and scalable systems while learning through open source.
 ```
 
 ---
 
 <p align="center">
-  ⭐ Always learning, building and improving
+
+⭐ Always learning, building and improving
+
 </p>
